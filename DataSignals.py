@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # CMSC 137 Laboratory: Data Signals
 # Prepared by: Reah Mae Sardañas
 ########################################################################
@@ -106,5 +104,4 @@ def calculate_cosine_wave(N, omega, t):                                         
     return (8/np.pi**2) * result
 
 if __name__ == "__main__":
->>>>>>> 3e4b750dec6aeda698e5751f4153af2fae17ab00
     main()
